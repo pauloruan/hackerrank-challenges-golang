@@ -11,5 +11,5 @@
 | Day | Challenger |
 | :-: | :--------: |
 | 01 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|
-| 02 | |
+| 02 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)|
 | 03 | |
