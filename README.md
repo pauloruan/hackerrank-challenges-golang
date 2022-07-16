@@ -14,6 +14,6 @@
 | 02 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |
 | 03 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |
 | 04 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) |
-| 05 | |
+| 05 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) |
 | 06 | |
 | 07 | |
