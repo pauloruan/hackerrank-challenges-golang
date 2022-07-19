@@ -5,11 +5,11 @@ package main
 
 import "fmt"
 
-func solveMeFirst(a int, b int) int {
+func SolveMeFirst(a int, b int) int {
 	return a + b
 }
 
 func main() {
-	var result = solveMeFirst(13, 13)
+	var result = SolveMeFirst(13, 13)
 	fmt.Println(result)
 }
